@@ -1,7 +1,5 @@
-============================================================
-                   [Yoga Rizki Pratama]
-         Data Scientist / Machine Learning Engineer
-============================================================
+# Yoga Rizki Pratama
+## Data Scientist / Machine Learning Engineer
 
 Contact:
   - Email    : [yogarizkipratama@gmail.com]
